@@ -1,0 +1,18 @@
+{
+    "name": "app_node_guay",
+    "version": "1.0.0",
+    "description": "probando node!!!",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "author": "MariPain",
+    "license": "ISC",
+    "dependencies": {
+        "cowsay": "^1.4.0"
+    },
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    }
+}
